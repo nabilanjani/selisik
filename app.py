@@ -14,7 +14,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 st.set_page_config(
     page_title="Model Deteksi Pesan Rekayasa Sosial",
     page_icon="🛡️",
-    layout="wide"   # WAJIB WIDE BIAR 2 KOLOM KELIHATAN
+    layout="wide"   
 )
 
 # =========================================================

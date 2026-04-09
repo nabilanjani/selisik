@@ -2,3 +2,5 @@ streamlit
 numpy
 pandas
 nltk
+keras==2.12.0
+h5py
